@@ -8,7 +8,6 @@ Spatial data
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Geographic data
 
    geographic_data/input_ouput
